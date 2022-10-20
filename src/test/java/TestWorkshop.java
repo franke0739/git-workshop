@@ -124,6 +124,5 @@ public class TestWorkshop {
 //
 //        // Click searchSubmitButton
 //        searchSubmitButton.click();
-
     }
 }
